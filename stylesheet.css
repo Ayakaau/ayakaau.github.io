@@ -1,11 +1,12 @@
 .title {
 text-align: center;
 background-color: #3cb371;
- h1 {
+}
+.title h1 {
  font-size: 50px;
  color: #696969;
  }
- p {
+.title p {
  color: #696969;
  }
- }
+ 
